@@ -12,7 +12,7 @@
     1. Tumblr — изначально отключён, но можно использовать, включив в настройках
     2. scriptogr.am
 3. CMS: 
-    1. Drupal — content-фильтр Markdown
+     Drupal — content-фильтр Markdown
     2. Magento — с помощью модуля
     3. Plone — «родная» поддержка в Plone 3TYPO3 — с помощью плагина af_markdown
     4. RadiantCMS — один из видов разметки, доступный «из коробки»
