@@ -7,10 +7,10 @@
     1. DokuWiki (с помощью плагина)
     2. ikiwiki
     3. Oddmuse
-    4. PmWiki (с помощью плагина)
+    4. PmWiki (с помощью плагина)
 2. Блоги:
     1. Tumblr — изначально отключён, но можно использовать, включив в настройках
-    2. scriptogr.am
+    2. scriptogr.am
 3. CMS: 
     1. Drupal — content-фильтр Markdown
     2. Magento — с помощью модуля
